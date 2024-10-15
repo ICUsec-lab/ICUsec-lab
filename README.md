@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ICUsec
-- 👀 I’m interested in red team cyber security
-- 🌱 I’m currently learning python, pentest, htb, what i can...
-- ⚡ Fun fact: the answer its always there just believe
-
-<!---
-ICUsec-lab/ICUsec-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @ICUsec
+- I’m interested in red team cyber security
+- I’m currently learning python, pentest, htb, what i can...
+- Fun fact: the answer its always there just believe
+- all this tools its for addiction purpose only all you do with my tools it on your own risk
+- read before you even starting the tool try it and understand how the tool work and what its can do
